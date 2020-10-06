@@ -1,0 +1,22 @@
+﻿  Source.c
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(49,37): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(49,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(50,34): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(50,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(51,39): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(51,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(52,36): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(52,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(53,49): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(53,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(54,46): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(54,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(55,42): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(55,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(56,36): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(56,27): warning C4024: 'fscanf_s': different types for formal and actual parameter 2
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(49): error C4700: uninitialized local variable 'tempPCB' used
+LINK : fatal error LNK1257: code generation failed

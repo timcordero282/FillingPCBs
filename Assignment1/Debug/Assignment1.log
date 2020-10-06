@@ -1,0 +1,6 @@
+﻿  Source.c
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(63,48): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(94): warning C4716: 'findPriority': must return a value
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(106): warning C4716: 'display': must return a value
+E:\OS\Assignment1\Assignment1\Assignment1\Source.c(80): warning C4716: 'read': must return a value
+  Assignment1.vcxproj -> E:\OS\Assignment1\Assignment1\Debug\Assignment1.exe
